@@ -30,7 +30,7 @@ class RepoName extends Component{
         return(
             <div>
             <button onClick={this.repoName}>display names</button>
-            {console.log(this.state)} 'hello'
+            {console.log(this.state)}
             {// Here's a list of repos!
              /* this.state.data.map(data => (
               <li>{data.name}</li>
