@@ -23,9 +23,11 @@ class RepoName extends Component{
       } 
 
     render(){
-        /* if (this.state.name) {
+        /*
+         if (this.state.name) {
             return null;
-          } */
+         } 
+         */
 
         return(
             <div>
